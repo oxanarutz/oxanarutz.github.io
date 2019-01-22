@@ -62,7 +62,7 @@ img.aligncenter {
   margin-left: auto; }
 
 body {
-  background-color: #FFFFFF;
+  background-color: #000000;
   border-style: none; }
 
 body,
@@ -102,7 +102,7 @@ body.page-template-page-fullsingle-me {
   line-height: 60px;
   letter-spacing: -0.5px;
   color: #999999;
-  color: #fff;
+  color: #000;
   background-image: url("../../images/broetchen.jpg");
   background-position: center center;
   background-size: cover; }
@@ -188,7 +188,7 @@ body.page-template-page-fullsingle-me {
 
   }
     .bio a:hover {
-      color: #FFFFFF;
+      color: #000000;
       transition: 0.1s; }
 
 .network {
@@ -226,7 +226,7 @@ body.page-template-page-fullsingle-me {
         .network ul li a .svg-icon path,
         .network ul li a .svg-icon polygon,
         .network ul li a .svg-icon rect {
-          fill: #fff;
+          fill: #000;
           transition: 1s; }
         .network ul li a .svg-icon circle {
           stroke: #999999;
